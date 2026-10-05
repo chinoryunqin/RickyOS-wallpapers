@@ -1,11 +1,17 @@
 {
  "version": 1,
- "baseUrl": "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.2.0/wallpapers/",
+ "baseUrl": "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.3.0/wallpapers/",
  "mirrors": [
-  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.2.0/wallpapers/",
-  "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.2.0/"
+  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.3.0/wallpapers/",
+  "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.3.0/"
  ],
  "items": [
+  {
+   "name": "休息一下",
+   "file": "00-rest.png",
+   "size": 7865,
+   "crc32": 3224694465
+  },
   {
    "name": "一起读书",
    "file": "31-reading-together.png",

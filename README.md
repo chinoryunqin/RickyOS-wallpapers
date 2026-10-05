@@ -2,10 +2,11 @@
 
 RickyOS（MindReset Read Pico 固件）在「应用 → 待机显示」和「设置 → 电源与待机」里提供「下载默认图片」，从这里下载到 `/images/待机图片/`。
 
-v1.2.0 一共 16 张，全部是浅色画面：Ricky 和小狗的 logo 风格线稿、涂鸦配标语、绘本插画。
+v1.3.0 一共 17 张，全部是浅色画面：RickyOS「休息一下」品牌画面、Ricky 和小狗的 logo 风格线稿、涂鸦配标语、绘本插画。
 
 | 文件 | 设备上的名字 |
 | --- | --- |
+| `wallpapers/00-rest.png` | 休息一下 |
 | `wallpapers/31-reading-together.png` | 一起读书 |
 | `wallpapers/32-dog-nap.png` | 小狗午睡 |
 | `wallpapers/33-moon-reading.png` | 月亮上读书 |
@@ -28,7 +29,7 @@ v1.2.0 一共 16 张，全部是浅色画面：Ricky 和小狗的 logo 风格线
 - `sources/`：原图（1024×1536）。`build_rickyos_wallpapers.py` 把原图裁成 9:16、缩放并抖动到 16 级灰阶；logo 风格的线稿收进画面中上部，涂鸦图的标语用得意黑（Smiley Sans，OFL，见 `sources/OFL-SmileySans.txt`）排在图下，都避开右下角的待机时间卡片：
 
 ```sh
-python3 build_rickyos_wallpapers.py --sources sources --output . --slogan-font SmileySans-Oblique.otf --tag v1.2.0
+python3 build_rickyos_wallpapers.py --sources sources --output . --slogan-font SmileySans-Oblique.otf --tag v1.3.0
 ```
 
-图片为 RickyOS 原创，使用 AI 图像生成工具制作；Ricky 和小狗来自 RickyOS 的 logo。
+图片为 RickyOS 原创，使用 AI 图像生成工具制作；Ricky 和小狗来自 RickyOS 的 logo；「休息一下」直接取自固件在原生分辨率下绘制的待机画面。
