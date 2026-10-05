@@ -1,106 +1,106 @@
 {
  "version": 1,
- "baseUrl": "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.1.0/",
+ "baseUrl": "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.2.0/",
  "mirrors": [
-  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.1.0/wallpapers/",
-  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.1.0/wallpapers/"
+  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.2.0/wallpapers/",
+  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.2.0/wallpapers/"
  ],
  "items": [
   {
    "name": "一起读书",
-   "file": "31-reading-together.bmp",
-   "size": 418422,
-   "crc32": 3087379989
+   "file": "31-reading-together.png",
+   "size": 43111,
+   "crc32": 3470441699
   },
   {
    "name": "小狗午睡",
-   "file": "32-dog-nap.bmp",
-   "size": 418422,
-   "crc32": 835742171
+   "file": "32-dog-nap.png",
+   "size": 28890,
+   "crc32": 616177299
   },
   {
    "name": "月亮上读书",
-   "file": "33-moon-reading.bmp",
-   "size": 418422,
-   "crc32": 1910069720
+   "file": "33-moon-reading.png",
+   "size": 38705,
+   "crc32": 943136419
   },
   {
    "name": "叼书小狗",
-   "file": "34-dog-fetch.bmp",
-   "size": 418422,
-   "crc32": 2609511567
+   "file": "34-dog-fetch.png",
+   "size": 29778,
+   "crc32": 259602686
   },
   {
    "name": "书本盖脸",
-   "file": "35-book-nap.bmp",
-   "size": 418422,
-   "crc32": 2474198164
+   "file": "35-book-nap.png",
+   "size": 40973,
+   "crc32": 228103528
   },
   {
    "name": "书后探头",
-   "file": "36-peek.bmp",
-   "size": 418422,
-   "crc32": 2849107322
+   "file": "36-peek.png",
+   "size": 26620,
+   "crc32": 1567139932
   },
   {
    "name": "先看一页",
-   "file": "21-one-more-page.bmp",
-   "size": 418422,
-   "crc32": 1082980988
+   "file": "21-one-more-page.png",
+   "size": 36392,
+   "crc32": 3953082445
   },
   {
    "name": "别催",
-   "file": "22-do-not-disturb.bmp",
-   "size": 418422,
-   "crc32": 2801931226
+   "file": "22-do-not-disturb.png",
+   "size": 66246,
+   "crc32": 2472912694
   },
   {
    "name": "电量充足",
-   "file": "23-battery-full.bmp",
-   "size": 418422,
-   "crc32": 288693970
+   "file": "23-battery-full.png",
+   "size": 61691,
+   "crc32": 1864730200
   },
   {
    "name": "慢慢读",
-   "file": "24-slow-reading.bmp",
-   "size": 418422,
-   "crc32": 834612426
+   "file": "24-slow-reading.png",
+   "size": 59034,
+   "crc32": 3364994062
   },
   {
    "name": "不出门",
-   "file": "25-stay-home.bmp",
-   "size": 418422,
-   "crc32": 2505927864
+   "file": "25-stay-home.png",
+   "size": 66918,
+   "crc32": 2766506690
   },
   {
    "name": "摸鱼",
-   "file": "26-fish-culture.bmp",
-   "size": 418422,
-   "crc32": 1768472799
+   "file": "26-fish-culture.png",
+   "size": 69455,
+   "crc32": 2061803292
   },
   {
    "name": "小熊的气球",
-   "file": "12-bear-balloon.bmp",
-   "size": 418422,
-   "crc32": 3775200198
+   "file": "12-bear-balloon.png",
+   "size": 115028,
+   "crc32": 1357529488
   },
   {
    "name": "云上鲸鱼",
-   "file": "13-whale-clouds.bmp",
-   "size": 418422,
-   "crc32": 2180682852
+   "file": "13-whale-clouds.png",
+   "size": 114066,
+   "crc32": 3566076359
   },
   {
    "name": "刺猬去图书馆",
-   "file": "14-hedgehog-library.bmp",
-   "size": 418422,
-   "crc32": 459273632
+   "file": "14-hedgehog-library.png",
+   "size": 176812,
+   "crc32": 2513484193
   },
   {
    "name": "树上的狐狸",
-   "file": "15-fox-tree.bmp",
-   "size": 418422,
-   "crc32": 2625695575
+   "file": "15-fox-tree.png",
+   "size": 153067,
+   "crc32": 905412136
   }
  ]
 }
