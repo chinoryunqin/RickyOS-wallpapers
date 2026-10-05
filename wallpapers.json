@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "baseUrl": "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.0.0/",
+ "mirrors": [
+  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.0.0/wallpapers/",
+  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.0.0/wallpapers/"
+ ],
+ "items": [
+  {
+   "name": "云海",
+   "file": "01-mountains.bmp",
+   "size": 418422,
+   "crc32": 4239882939
+  },
+  {
+   "name": "窗边",
+   "file": "02-window.bmp",
+   "size": 418422,
+   "crc32": 3642385353
+  },
+  {
+   "name": "猫与书",
+   "file": "03-cat.bmp",
+   "size": 418422,
+   "crc32": 258619784
+  },
+  {
+   "name": "月夜",
+   "file": "04-moon.bmp",
+   "size": 418422,
+   "crc32": 3004763560
+  },
+  {
+   "name": "竹",
+   "file": "05-bamboo.bmp",
+   "size": 418422,
+   "crc32": 3434937789
+  },
+  {
+   "name": "夜灯",
+   "file": "06-lamp.bmp",
+   "size": 418422,
+   "crc32": 3486814993
+  }
+ ]
+}
