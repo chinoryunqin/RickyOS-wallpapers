@@ -1,9 +1,10 @@
 {
  "version": 1,
- "baseUrl": "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.3.0/",
+ "baseUrl": "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.4.0/",
  "mirrors": [
-  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.3.0/wallpapers/",
-  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.3.0/wallpapers/"
+  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.4.0/wallpapers/",
+  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.4.0/wallpapers/",
+  "https://rickyos-1309217881.cos.ap-guangzhou.myqcloud.com/wallpapers/v1.4.0/"
  ],
  "items": [
   {
@@ -107,6 +108,104 @@
    "file": "15-fox-tree.png",
    "size": 153067,
    "crc32": 905412136
+  }
+ ],
+ "stickers": [
+  {
+   "name": "破纸而出",
+   "file": "s01-tear.png",
+   "size": 26800,
+   "crc32": 4022603753
+  },
+  {
+   "name": "巨型探头",
+   "file": "s02-peek-up.png",
+   "size": 11950,
+   "crc32": 408622926
+  },
+  {
+   "name": "累趴了",
+   "file": "s03-belly-up.png",
+   "size": 15914,
+   "crc32": 2931323296
+  },
+  {
+   "name": "贴脸",
+   "file": "s04-squish.png",
+   "size": 24753,
+   "crc32": 2692392696
+  },
+  {
+   "name": "盖被子",
+   "file": "s05-blanket.png",
+   "size": 16685,
+   "crc32": 299656649
+  },
+  {
+   "name": "趴着睡",
+   "file": "s06-sleep.png",
+   "size": 12315,
+   "crc32": 394341071
+  },
+  {
+   "name": "扒住顶边",
+   "file": "s07-hang.png",
+   "size": 17125,
+   "crc32": 1863241107
+  },
+  {
+   "name": "侧边偷看",
+   "file": "s08-peek-side.png",
+   "size": 12913,
+   "crc32": 2492378364
+  },
+  {
+   "name": "脚印",
+   "file": "s09-paws.png",
+   "size": 13769,
+   "crc32": 3000075242
+  },
+  {
+   "name": "动物帮睡成一堆",
+   "file": "s10-gang-pile.png",
+   "size": 34042,
+   "crc32": 3521733226
+  },
+  {
+   "name": "动物帮一排探头",
+   "file": "s11-gang-peek.png",
+   "size": 17804,
+   "crc32": 3471157710
+  },
+  {
+   "name": "动物帮叠罗汉",
+   "file": "s12-gang-tower.png",
+   "size": 30971,
+   "crc32": 2702397985
+  },
+  {
+   "name": "工牌",
+   "file": "s13-badge.png",
+   "size": 15367,
+   "crc32": 2898254247
+  },
+  {
+   "name": "片尾字幕",
+   "file": "s14-credits.png",
+   "size": 11133,
+   "crc32": 1058983919
+  },
+  {
+   "name": "竖排字标",
+   "file": "s15-wordmark.png",
+   "size": 15549,
+   "crc32": 1619662870
+  },
+  {
+   "name": "印章",
+   "file": "s16-stamp.png",
+   "size": 16492,
+   "crc32": 1446948369
   }
  ]
 }
