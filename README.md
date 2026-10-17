@@ -1,8 +1,8 @@
 # RickyOS 默认待机图片
 
-RickyOS（MindReset Read Pico 固件）在「应用 → 待机显示」和「设置 → 电源与待机」里提供「下载默认图片」，从这里下载到 `/images/待机图片/`。
+RickyOS 在 Read Pico 与 Metalio E-Ink4 Plus 的「应用 → 待机显示」和「设置 → 电源与待机」里提供「下载默认图片」，从这里下载到 `/images/待机图片/`。
 
-v1.4.0 包含 17 张待机图片（与 v1.3.0 相同，全部是浅色画面：RickyOS「休息一下」品牌画面、Ricky 和小狗的 logo 风格线稿、涂鸦配标语、绘本插画），以及新增的 16 张透明壁纸。
+v1.5.0 包含 17 张待机图片（与 v1.4.0 相同），以及 20 张透明壁纸；本次新增 4 张猫猫主题透明壁纸。
 
 | 文件 | 设备上的名字 |
 | --- | --- |
@@ -44,10 +44,14 @@ v1.4.0 包含 17 张待机图片（与 v1.3.0 相同，全部是浅色画面：R
 | `wallpapers/s14-credits.png` | 片尾字幕 |
 | `wallpapers/s15-wordmark.png` | 竖排字标 |
 | `wallpapers/s16-stamp.png` | 印章 |
+| `wallpapers/s17-cat-mona-lisa.png` | 蒙娜丽猫 |
+| `wallpapers/s18-cat-peek-up.png` | 猫猫探头 |
+| `wallpapers/s19-cat-window-moon.png` | 窗边看月 |
+| `wallpapers/s20-cat-book-nap.png` | 书堆午睡 |
 
 透明壁纸是带透明通道的 684×1216 灰阶 PNG。清单里的 `stickers` 列表只有 1.2.0 及以后的固件会读取，旧固件只读 `items`，不受影响。
 
-- `wallpapers/*.png`：684×1216，4 位 16 级灰阶调色板 PNG（白底图压缩率高，16 张共约 1.1 MB），对应 Read Pico 的 16 级灰度屏；设为壁纸时设备把它转成 8 位灰度 BMP，16 级灰度不丢。
+- `wallpapers/*.png`：684×1216，按 16 级灰阶屏幕适配的 PNG；设为壁纸时设备转换为灰度 BMP。
 - `wallpapers.json`：下载清单，文件地址指向 GitHub Release；`mirror.json`：同一份清单，文件地址经 jsDelivr 镜像本仓库的 `wallpapers/`。两份清单的 `mirrors` 列出其他存放相同文件的地址，某个文件下载失败时设备会依次换用。
 - `sources/`：原图（1024×1536）。`build_rickyos_wallpapers.py` 把原图裁成 9:16、缩放并抖动到 16 级灰阶；logo 风格的线稿收进画面中上部，涂鸦图的标语用得意黑（Smiley Sans，OFL，见 `sources/OFL-SmileySans.txt`）排在图下，都避开右下角的待机时间卡片：
 

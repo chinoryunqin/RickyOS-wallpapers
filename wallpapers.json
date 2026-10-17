@@ -1,10 +1,10 @@
 {
  "version": 1,
- "baseUrl": "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.4.0/",
+ "baseUrl": "https://github.com/chinoryunqin/RickyOS-wallpapers/releases/download/v1.5.0/",
  "mirrors": [
-  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.4.0/wallpapers/",
-  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.4.0/wallpapers/",
-  "https://rickyos-1309217881.cos.ap-guangzhou.myqcloud.com/wallpapers/v1.4.0/"
+  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.5.0/wallpapers/",
+  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-wallpapers@v1.5.0/wallpapers/",
+  "https://rickyos-1309217881.cos.ap-guangzhou.myqcloud.com/wallpapers/v1.5.0/"
  ],
  "items": [
   {
@@ -206,6 +206,30 @@
    "file": "s16-stamp.png",
    "size": 16492,
    "crc32": 1446948369
+  },
+  {
+   "name": "蒙娜丽猫",
+   "file": "s17-cat-mona-lisa.png",
+   "size": 44532,
+   "crc32": 985501927
+  },
+  {
+   "name": "猫猫探头",
+   "file": "s18-cat-peek-up.png",
+   "size": 16262,
+   "crc32": 3898475122
+  },
+  {
+   "name": "窗边看月",
+   "file": "s19-cat-window-moon.png",
+   "size": 23968,
+   "crc32": 866344736
+  },
+  {
+   "name": "书堆午睡",
+   "file": "s20-cat-book-nap.png",
+   "size": 28285,
+   "crc32": 1462173542
   }
  ]
 }
